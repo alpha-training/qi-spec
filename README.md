@@ -1,1 +1,1 @@
-# qi-spec
+# qi-stack
